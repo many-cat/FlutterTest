@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/liuyue/Android/Flutter/FlutterTest/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/liuyue/Android/Flutter/flutter_test/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/liuyue/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/values/values.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/liuyue/Android/Flutter/FlutterTest/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/liuyue/Android/Flutter/flutter_test/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
